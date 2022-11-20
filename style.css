@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #B3376A;
+}
+
+body {
+    background-color: #83FF89;
+}
+
+.special {
+    color: #B3376A;
+    background: linear-gradient(to right, #49B34E, #9CFFA1, #83FF89, #B3376A, #FF82B5);
+}
+
+p {
+    border: 2px dotted #49B34E;
+    padding: 25px;
+    margin: 30px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #49B34E;
+    margin: 20px;
+}
